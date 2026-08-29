@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { useEffect, useMemo, useRef } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { z } from "zod";
 import { ComicPageView } from "@/components/comic-page";
 import { SEASONS, getIssue } from "@/lib/catalog";
@@ -20,15 +20,42 @@ function Read() {
   const { s, i, p: rawP } = Route.useSearch();
   const navigate = Route.useNavigate();
   const startX = useRef<number | null>(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+  const [narrating, setNarrating] = useState(false);
+  const [narrationMissing, setNarrationMissing] = useState(false);
   const issue = getIssue(s, i) ?? getIssue(1, 1)!;
   const pages = useMemo(() => pagesFor(issue.season, issue.number), [issue]);
   const p = Math.min(pages.length, Math.max(1, rawP));
   const page = pages[p - 1] ?? pages[0];
   const season = SEASONS[issue.season - 1];
+  const narrationSrc = `/audio/s${issue.season}/i${String(issue.number).padStart(2, "0")}/p${String(page.n).padStart(2, "0")}.mp3`;
+
+  const stopNarration = () => {
+    audioRef.current?.pause();
+    if (audioRef.current) audioRef.current.currentTime = 0;
+    setNarrating(false);
+  };
+
+  const toggleNarration = async () => {
+    const audio = audioRef.current;
+    if (!audio || narrationMissing) return;
+    if (!audio.paused) {
+      audio.pause();
+      setNarrating(false);
+      return;
+    }
+    try {
+      await audio.play();
+      setNarrating(true);
+    } catch {
+      setNarrating(false);
+    }
+  };
 
   const go = (n: number) => {
     const next = Math.min(pages.length, Math.max(1, n));
     if (next === p) return;
+    stopNarration();
     void navigate({ search: { s: issue.season, i: issue.number, p: next } });
   };
 
@@ -45,8 +72,14 @@ function Read() {
       ns = (ns - 1) as 1 | 2 | 3;
       ni = 13;
     }
+    stopNarration();
     void navigate({ search: { s: ns, i: ni, p: 1 } });
   };
+
+  useEffect(() => {
+    setNarrationMissing(false);
+    setNarrating(false);
+  }, [narrationSrc]);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -126,6 +159,30 @@ function Read() {
           className="absolute inset-y-0 right-0 z-20 w-[22%] cursor-e-resize bg-transparent"
           onClick={() => (p >= pages.length ? goIssue(1) : go(p + 1))}
         />
+      </div>
+
+      <audio
+        ref={audioRef}
+        src={narrationSrc}
+        preload="metadata"
+        onPlay={() => setNarrating(true)}
+        onPause={() => setNarrating(false)}
+        onEnded={() => setNarrating(false)}
+        onError={() => {
+          setNarrationMissing(true);
+          setNarrating(false);
+        }}
+      />
+
+      <div className="px-4 pb-2">
+        <button
+          type="button"
+          onClick={() => void toggleNarration()}
+          disabled={narrationMissing}
+          className="w-full rounded-md border border-line px-4 py-2 font-sans text-xs font-medium tracking-[0.14em] text-fog uppercase disabled:cursor-not-allowed disabled:opacity-40"
+        >
+          {narrationMissing ? "Narration coming soon" : narrating ? "Pause narration" : "Narrate page"}
+        </button>
       </div>
 
       <nav className="flex items-center gap-3 px-4 pt-1 pb-[max(1rem,env(safe-area-inset-bottom))]">
