@@ -1,3 +1,5 @@
+import { getIssue, type IssueCard } from "./catalog";
+
 export type Balloon = {
   speaker?: string;
   text: string;
@@ -422,3 +424,48 @@ export const REPAIRS = PAGES.filter((p) => p.repair);
 export function pageByNumber(n: number) {
   return PAGES.find((p) => p.n === n);
 }
+
+export function pagesFor(season: number, number: number): ComicPage[] {
+  const issue = getIssue(season, number);
+  if (!issue) return PAGES;
+  if (issue.fullComic) return PAGES;
+  return issuePlates(issue);
+}
+
+function issuePlates(issue: IssueCard): ComicPage[] {
+  const sentences = issue.synopsis
+    .split(/(?<=\.)\s+/)
+    .map((s) => s.trim())
+    .filter(Boolean);
+  const rest = [
+    "/skyblood/hub.jpg",
+    "/skyblood/elias.jpg",
+    "/skyblood/temple.jpg",
+    "/skyblood/alone.jpg",
+    "/skyblood/desk.jpg",
+    "/skyblood/glass.jpg",
+    "/skyblood/final.jpg",
+  ];
+  const art = [issue.cover, ...rest];
+  const movement = `Season ${issue.season} · Issue ${String(issue.number).padStart(2, "0")}`;
+  const pages: ComicPage[] = [
+    {
+      n: 1,
+      art: issue.cover,
+      pos: "center 18%",
+      movement,
+      caption: `${issue.title}.`,
+    },
+  ];
+  sentences.forEach((caption, idx) => {
+    pages.push({
+      n: idx + 2,
+      art: art[(idx + 1) % art.length] ?? issue.cover,
+      pos: idx % 2 === 0 ? "center 30%" : "center 55%",
+      movement,
+      caption,
+    });
+  });
+  return pages;
+}
+

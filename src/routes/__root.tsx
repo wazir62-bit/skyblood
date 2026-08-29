@@ -15,7 +15,7 @@ export const Route = createRootRoute({
       {
         name: "description",
         content:
-          "SKYBLOOD #1 — The Temple Above. A 32-page prestige issue. Continuity repaired on pages 13, 24, 25, 30, and 31.",
+          "SKYBLOOD. Three seasons, thirteen issues each. A Memphis cargo myth.",
       },
     ],
     links: [

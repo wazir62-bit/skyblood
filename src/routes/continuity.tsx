@@ -9,6 +9,7 @@ function Continuity() {
       <div className="mx-auto max-w-2xl">
         <Link
           to="/"
+          search={{ s: 1 }}
           className="font-sans text-[11px] font-medium tracking-[0.22em] text-mute uppercase"
         >
           SKYBLOOD
@@ -62,7 +63,7 @@ function Continuity() {
                   </dl>
                   <Link
                     to="/read"
-                    search={{ p: p.n }}
+                    search={{ s: 1, i: 1, p: p.n }}
                     className="mt-5 inline-flex h-11 items-center rounded-md bg-fog px-4 font-sans text-sm font-semibold text-void"
                   >
                     Read page {p.n}
