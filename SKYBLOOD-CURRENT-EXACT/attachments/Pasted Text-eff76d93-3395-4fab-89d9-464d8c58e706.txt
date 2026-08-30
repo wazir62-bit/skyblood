@@ -1,0 +1,78 @@
+**Research review only. No lock. SB-WB01 remains untouched. Memphis remains the setting; employer remains unlocked.**
+
+The geography brief is strong, but I found **three factual corrections/qualifications** worth making before it becomes production reference.
+
+First, the airport-name update is correct and very recent: Memphis International Airport was officially renamed **Frederick W. Smith International Airport on August 11, 2026**, while the IATA code remains **MEM**. ([MEM][1])
+
+Second, the scale is absolutely right. The airport authority currently reports **Cargo East at approximately 1.4 million sq ft of ramp**, with more than 36,000 sq ft of building space. It also reports the dominant cargo operator leasing more than **34 million sq ft of airport property**, while UPS has a substantial separate campus. That supports your production idea of a huge cargo ecosystem rather than one visually identifiable employer facility. ([MEM][2])
+
+The real airport layout also supports separating the cargo world from the passenger terminal. An FAA surface-movement chart visibly distinguishes the terminal, UPS hub, ramps and extensive taxiway/runway network. ([Federal Aviation Administration][3])
+
+### Corrections
+
+**1. “~7 miles southeast of downtown” needs to stay descriptive, not become an aviation datum.** FAA aerodrome data currently describes MEM as **3 miles south of Memphis**, which uses the FAA's city-reference convention rather than downtown distance. So a downtown-to-airport map measurement may indeed be roughly the distance you're describing, but I wouldn't encode “7 miles southeast” as an official airport fact. ([Federal Aviation Administration][4])
+
+**2. The runway section passes.** Current FAA material confirms the four-runway geometry and specifically shows:
+
+**18C/36C — 11,120 × 150 ft**
+**18L/36R — 9,000 × 150 ft**
+**18R/36L — 9,320 × 150 ft**
+**9/27 — 8,946 × 150 ft**. ([Aeronav][5])
+
+So your production prohibition remains excellent: **Elias is nowhere on those surfaces.**
+
+That actually makes the existing WB01 language more valuable. It already locks him to the cargo apron and explicitly prohibits runway centerline, threshold bars and active-runway numerals beneath him. 
+
+**3. Remove the “250–400 night flights / peak sort ~10 p.m.–5 a.m.” numbers unless we separately source them.** The airport currently says the major Memphis cargo operation runs **almost 400 flights per day**, but that does not establish that 250–400 of them occur during one nightly sort. ([MEM][2])
+
+The **night-hub concept itself survives**. What shouldn't survive yet is that particular numerical range.
+
+### The sort-building distinction is especially solid
+
+The newer Memphis sorting facility really is **1.3 million square feet across four levels with 11 miles of conveyor belt** and capacity for 56,000 packages per hour. ([FedEx Newsroom][6])
+
+That validates your visual distinction:
+
+**APRON = Elias's physical world.**
+Aircraft, loaders, dollies, tugs, rain, paint, concrete, high-mast lighting.
+
+**SORT BUILDING = evacuation direction.**
+Huge interior logistics machinery beyond the doors.
+
+That separation is useful because WB01 already defines Elias specifically as cargo-hub labor who **works the apron**, while describing the warehouse/sort floor as the other side of the operation. 
+
+So I agree with keeping Dez out of the conveyor system. His accident belongs at the stand.
+
+### One production detail I'd preserve from this research
+
+Your **three-depth composition** is probably the most useful result:
+
+**Near:** Elias's individual stand—wet concrete, stand geometry, loader/dolly environment.
+
+**Mid:** the larger frozen cargo operation—parked GSE, other stands, high-masts, workers retreating toward shelter.
+
+**Far:** operational airfield light and weather.
+
+Then Pages 20–21 break that scale hierarchy because the temple resolves **inside the cloud and larger than the human-scale hub**, exactly as the existing bible requires. 
+
+Page 24 collapses everything back down to **one man + one stand + wet industrial geometry**, seen straight overhead.
+
+That gives Issue #1 a useful visual scale progression:
+
+**worker → stand → enormous hub → impossible sky → worker.**
+
+Nothing in that progression requires an employer logo.
+
+**STATUS: RESEARCH VALIDATED WITH MINOR CORRECTIONS — NOT LOCKED.**
+
+The geography survives. I would only remove/soften the downtown-distance claim as an official datum and the unsupported nightly-flight/peak-sort numbers. Everything important for production—**Memphis cargo scale, apron rather than runway, building as evacuation direction, night freight environment, and temple exceeding the field's scale**—holds.
+
+[1]: https://flymemphis.com/2026/08/12/airport-authority-celebrates-historic-renaming-to-honor-visionary-and-fedex-founder-frederick-w-smith/?utm_source=chatgpt.com "Airport Authority Celebrates Historic Renaming to Honor Visionary and FedEx Founder Frederick W. Smith - MEM"
+[2]: https://flymemphis.com/properties-and-cargo/?utm_source=chatgpt.com "Properties and Cargo - MEM"
+[3]: https://www.faa.gov/air_traffic/flight_info/aeronav/acf/media/Presentations/11-02-RD214_Sample_SMGCS_Taxi_Charts.pdf?utm_source=chatgpt.com "SMGCS
+MEMPHIS INTL (MEM)
+MEMPHIS, TENNESSEE
+RWY 36"
+[4]: https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part3_ad_2.0_tennessee.html?utm_source=chatgpt.com "Tennessee"
+[5]: https://aeronav.faa.gov/d-tpp/2601/00253R36R.PDF?utm_source=chatgpt.com "MEMPHIS, TENNESSEE"
+[6]: https://newsroom.fedex.com/newsroom/global-english/fedex-unveils-new-automated-sorting-facility-at-memphis-world-hub?utm_source=chatgpt.com "FedEx Unveils New Automated Sorting Facility at Memphis World Hub"

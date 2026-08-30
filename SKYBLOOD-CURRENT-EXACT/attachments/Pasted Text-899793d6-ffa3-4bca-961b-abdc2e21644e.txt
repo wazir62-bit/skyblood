@@ -1,0 +1,305 @@
+### Storm chronology + supernatural handoff — research pass
+
+**Status: RESEARCH VALIDATED — NOT LOCKED.** No new sheet. SB-PB01 / SB-WB01 / SB-WD01 remain untouched.
+
+This pass produces one important rule:
+
+**The storm must be completely believable before recognition begins.**
+
+That protects the existing canon that Elias senses weather early and may provoke only **one involuntary wind response**, but cannot summon, aim, dismiss, or otherwise control the storm.  
+
+### 1. Ordinary storm first
+
+The opening weather progression can remain entirely meteorological:
+
+**pressure change → wind/outflow → darkening cloud → rain → lightning activity → ramp warning → freeze.**
+
+NWS guidance supports fast-changing thunderstorm hazards including lightning, downbursts and outflow boundaries; Memphis-area NWS material specifically notes that thunderstorm downbursts can generate expanding outflow boundaries and wind shear. ([National Weather Service][1])
+
+Nothing about that needs Elias.
+
+In fact, the strongest presentation is that **the airport independently sees the danger after Elias has already felt it**.
+
+Elias senses first.
+Systems confirm second.
+Workers obey procedure third.
+
+That makes his perception unusual without making him the cause.
+
+### 2. The ramp freeze is still ordinary
+
+Once lightning reaches the operator's shutdown criteria, outdoor ramp work stopping is realistic. FAA-sponsored ACRP research specifically describes suspending exposed operations such as fueling, baggage handling and tug work during lightning hazards, while emphasizing that individual operators establish their own procedures. ([TRB Process Documentation][2])
+
+So visually:
+
+**warnings → GSE stops → fueling dead → bodies moving inward → apron rapidly empties.**
+
+Then Elias breaks flow for Dez.
+
+Nothing supernatural has happened yet.
+
+### 3. Dez rescue stays completely human
+
+The rescue occurs inside that ordinary storm.
+
+No:
+
+* strange gold,
+* impossible wind,
+* threshold geometry,
+* lightning responding to Elias,
+* supernatural silence,
+* temple glimpses during the mechanical release.
+
+This matters because the locked WB01 explicitly places **Dez's rescue before temple recognition**. 
+
+The audience should be able to stop reading immediately after Dez is freed and say:
+
+> That could have happened at a real cargo hub during a thunderstorm.
+
+That gives the next beat somewhere to go.
+
+### 4. The first boundary violation should be perception, not spectacle
+
+After Dez is clear, Elias remains outside longer than he should.
+
+Now his normal perception stack can intensify:
+
+**physical sensation → atmospheric empathy → visual threshold sight.**
+
+That progression is already locked in SB-PB01. 
+
+Production-wise, I would keep the first transition subtle.
+
+Cloud geometry should initially be explainable as:
+
+**“Maybe he is seeing structure in the storm.”**
+
+Then it becomes too ordered.
+
+Cloud layers stop reading merely meteorological and begin resolving into **threshold geometry**.
+
+That is the supernatural handoff.
+
+Not:
+
+**storm becomes magical.**
+
+Instead:
+
+**something that was already hidden inside ordinary weather becomes perceptible to Elias.**
+
+That is much closer to the existing perception bible, which says the phenomenon first presents as **weather behaving incorrectly** and then resolves into threshold geometry. 
+
+### 5. Pages 20–21 own the impossible image
+
+The temple should not materialize like a building assembling itself.
+
+Better progression:
+
+**cloud → impossible depth → repeated geometry → scale becomes unreadable → temple recognition.**
+
+The weather remains visible through/around it.
+
+The audience should still understand:
+
+**this is cloud.**
+
+But Elias sees what the cloud is carrying.
+
+That protects the locked rule that the temple resolves **inside cloud**, remains sky-scale, and is not a physical structure sitting on the cargo field. 
+
+Pages 20–21 are consequently the point at which an ordinary observer and Elias could be looking at the **same sky** but not receiving the same image.
+
+That distinction is central to SKYBLOOD.
+
+### 6. One involuntary wind response
+
+There is room for the single SB-PB01-permitted involuntary wind event, but it needs disciplined placement.
+
+I would **not put it during the Dez rescue.**
+
+If the wind helps free Dez, it becomes a power-assisted rescue.
+
+If it occurs immediately after Elias recognizes the threshold, it reads differently:
+
+Elias has an emotional/recognition reaction → nearby rain or loose material moves incorrectly for a moment.
+
+For example:
+
+**rain suddenly cuts laterally across one portion of the stand while the broader storm continues normally.**
+
+Or:
+
+**a loose plastic sheet / lightweight FOD shifts sharply toward him rather than with the prevailing outflow.**
+
+Then it's over.
+
+He did not ask for it.
+He does not repeat it.
+He cannot use it.
+
+That matches the locked language: emotions may provoke an **involuntary atmospheric response**, but he cannot command the atmosphere in Issues #1–3. 
+
+### 7. Reciprocal sight is the real escalation
+
+The most important escalation is not lightning.
+
+It is:
+
+**Elias looks deeply enough that the threshold looks back.**
+
+That is already the fourth stage of his perception stack: **reciprocal sight**. 
+
+Production progression:
+
+**Elias perceives structure → recognizes temple → continues looking → something changes because he has been noticed.**
+
+That is where “Way-Opener” belongs dramatically.
+
+The sky is no longer merely something Elias observes.
+
+**He has entered its awareness.**
+
+That makes the later strike consequential rather than random.
+
+### 8. The silent strike needs to remain supernatural
+
+This is the biggest finding in the pass.
+
+A real nearby lightning strike is **not silent**.
+
+NWS explains that lightning violently heats the surrounding air, creating the acoustic shock wave we call thunder. A nearby strike produces a sharp bang, crack or snap. ([National Weather Service][3])
+
+Therefore:
+
+**If “silent strike” means physically no thunder occurs despite a strike hitting immediately near/on Elias, that silence itself is supernatural.**
+
+Do not try to explain it away with airport noise.
+
+Rain, engines or distance can obscure distant thunder. They cannot credibly make a direct nearby lightning strike genuinely silent. ([National Weather Service][4])
+
+That is useful.
+
+It creates a clean rupture:
+
+**ordinary lightning makes sound.
+This one does not.**
+
+The airport has already taught the reader what a thunderstorm sounds like.
+
+Then:
+
+**FLASH.**
+
+No expected crack.
+
+That absence can be more disturbing than another explosion.
+
+### 9. The bolt itself can still resemble real lightning
+
+The strike does not need to be a fantasy beam.
+
+A real thunderstorm can throw lightning well outside the main rain core. NWS documents “bolts from the blue” traveling more than **25 miles** from their parent storm in some cases, and notes that lightning can emerge from the storm's anvil and strike well away from the obvious core. ([National Weather Service][5])
+
+So visually, the strike can remain:
+
+**white atmospheric lightning.**
+
+Not gold.
+Not a god-ray.
+Not aimed from a visible Anubis hand.
+
+What makes it impossible is the **relationship**, the silence, Elias's survival, and what follows—not necessarily its shape.
+
+### 10. Gold comes after the strike
+
+This chronology protects the strongest gold rule in the entire stack.
+
+Before the strike:
+
+**no gold event.**
+
+At/after Page 24:
+
+recognition-light can catch:
+
+* standing water,
+* silver reflective bands,
+* wet apron paint,
+* metal snaps,
+* wet surfaces.
+
+The existing bible explicitly identifies Page 24 as the clearest gold event and forbids producing gold from Elias's body. 
+
+So the sequence should never be:
+
+**gold lightning → Elias falls → gold vest.**
+
+It should be closer to:
+
+**ordinary-white impossible strike → rupture → aftermath → existing reflective media reveal gold recognition-light.**
+
+That distinction keeps gold metaphysical rather than electrical.
+
+### 11. Page 24 is quiet aftermath, not lightning spectacle
+
+The strike is an event.
+
+Page 24 is the consequence.
+
+Straight overhead:
+
+**Elias on his back.
+Wet cargo apron.
+Vest still industrial.
+Water.
+Paint.
+Geometry.
+Recognition-light.**
+
+No temple repeat.
+No lightning bolt frozen behind him.
+No victory posture.
+
+The existing WB01 already locks exactly that distinction. 
+
+### Final chronology
+
+The research now supports this escalation:
+
+**1. Elias senses atmospheric change before everyone else.**
+**2. Ordinary thunderstorm develops.**
+**3. Airport warning/freeze begins.**
+**4. Everyone evacuates.**
+**5. Elias turns back.**
+**6. Human Dez rescue.**
+**7. Dez is clear.**
+**8. Elias perceives weather behaving incorrectly.**
+**9. Threshold geometry resolves.**
+**10. Pages 20–21: temple recognition.**
+**11. Reciprocal sight — Elias is perceived.**
+**12. Optional single involuntary wind response.**
+**13. “Way-Opener.”**
+**14. Silent strike — first unmistakable rupture in physical storm behavior.**
+**15. Page 24: overhead aftermath / recognition-light.**
+
+That gives Issue #1 a very clean escalation curve:
+
+**meteorology → procedure → human choice → perception → recognition → reciprocity → rupture.**
+
+### Research verdict
+
+**PASS.**
+
+There is now a strong dividing line between weather and supernatural action.
+
+Most importantly, **nothing in the sequence requires the storm to obey Elias.**
+
+The remaining production research is now much narrower: **Page 24 overhead composition and exact apron-marking geometry**, followed by one final continuity audit of the entire Issue #1 research package.
+
+[1]: https://www.weather.gov/zme/safety_llws?utm_source=chatgpt.com "safety_llws"
+[2]: https://crp.trb.org/acrpwebresource2/acrp-report-8-lightning-warning-systems-for-use-by-airports/?utm_source=chatgpt.com "ACRP Report 8: Lightning-Warning Systems for Use by Airports – Airport Passenger Terminal Design Library"
+[3]: https://www.weather.gov/source/zhu/ZHU_Training_Page/lightning_stuff/lightning2/thunder.html?utm_source=chatgpt.com "NWS JetStream - The Sound of Thunder"
+[4]: https://www.weather.gov/mlb/what_is_lightning?utm_source=chatgpt.com "NWS Melbourne What is Lightning?"
+[5]: https://www.weather.gov/pub/lightningBoltBlue?utm_source=chatgpt.com "NWS Pueblo Lightning Page - Bolts from the blue"

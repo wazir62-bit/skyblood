@@ -1,0 +1,618 @@
+Executed. I tightened it into a production-facing canon sheet rather than preserving the analysis prose. This version governs writers, colorists, cover artists, animation, and generated imagery without over-restricting ordinary real-world color.
+
+SB-CB01 — SKYBLOOD COLOR & LIGHTING BIBLE
+
+Status: LOCK
+Applies: Series-wide unless superseded by an explicit later canon lock
+Cross-reference: SB-PB01 · SB-WD01 Rev.2
+
+---
+
+I. PRIMARY LAW
+
+Color does not identify Elias Marrow as a superhero.
+
+SKYBLOOD does not put its supernatural identity onto Elias's body through a conventional superhero palette.
+
+The series separates color into distinct visual offices:
+
+Office| Visual language| Meaning
+Room| Fluorescent / practical environmental light| The physical truth of the location
+Shift| Fluorescent yellow-green lime| Worker visibility, labor, issued PPE
+Return| Silver retroreflective material| Existing light being returned
+Classification| Beige / gray / black ink| Institutional record, filing, administrative certainty
+Recognition| Recognition-gold| An event occurring at an eligible boundary
+
+These offices may interact.
+
+They do not merge.
+
+---
+
+II. THE CENTRAL DISTINCTION
+
+Gold is not Elias's color.
+
+Gold is an event.
+
+Recognition-gold indicates that an eligible boundary is participating in a recognition event.
+
+It is not:
+
+- Elias's aura
+- stored energy
+- costume trim
+- a transformation state
+- a mood
+- divine skin
+- an attack
+- a weapon
+- a beam
+- fire
+- electricity
+- generic magic
+
+The governing sentence is:
+
+«Gold may identify an event. It may never costume the man.»
+
+---
+
+III. RECOGNITION-GOLD
+
+Recognition-gold requires an eligible reflective or boundary medium already permitted by canon.
+
+Examples include:
+
+- glass
+- water
+- wet pavement
+- reflective industrial surfaces
+- eligible metal
+- retroreflective material when physically appropriate
+
+Recognition-gold must behave as light using a surface, not luminous material replacing that surface.
+
+The object remains what it is.
+
+Glass remains glass.
+
+Water remains water.
+
+Silver remains silver.
+
+Gold arrives.
+
+Gold leaves.
+
+---
+
+IV. THE BODY PROHIBITION
+
+Recognition-gold does not live on the human body.
+
+Forbidden unless a future explicit canon lock deliberately overturns this rule:
+
+- gold eyes
+- gold pupils
+- gold skin
+- gold veins
+- gold blood
+- gold tears
+- gold wounds
+- gold fingerprints
+- glowing gold hands
+- gold hair
+- gold breath
+- gold aura
+- gold body-outline
+- heroic gold rim-light implying supernatural possession of Elias
+
+Skin remains skin.
+
+Blood remains blood.
+
+Eyes remain human.
+
+The man does not shine.
+
+---
+
+V. ORDINARY GOLD IS STILL ALLOWED
+
+The physical world may contain ordinary gold-colored objects.
+
+Examples:
+
+- jewelry
+- signage
+- packaging
+- brass
+- metallic fixtures
+- warm practical lighting
+- decorative objects
+
+An object being physically gold-colored does not mean recognition has occurred.
+
+Therefore:
+
+«Metallic gold ≠ recognition-gold.»
+
+Recognition-gold must be distinguished through context, behavior, eligible medium, and established visual grammar.
+
+The world is allowed to contain gold.
+
+Gold happening is different.
+
+---
+
+VI. LIME — THE SHIFT
+
+Fluorescent yellow-green belongs to labor.
+
+Elias's Class 2 vest is:
+
+- issued PPE
+- mesh
+- shared with other workers
+- functional
+- replaceable
+- non-mythological
+
+Lime means:
+
+«SEE THIS WORKER SO YOU DO NOT HIT HIM.»
+
+It does not mean:
+
+«THIS MAN HAS BEEN CHOSEN.»
+
+The vest must never evolve accidentally into Elias's superhero costume.
+
+Forbidden:
+
+- gold-and-lime hero suit
+- custom mythological vest
+- hieroglyphs
+- FIRST SKY emblem
+- personalized chest insignia
+- armored lime plating
+- cape
+- magical H-wrap
+- permanent off-shift use as personal branding
+
+Off shift, the vest comes off unless PPE is independently required by the scene.
+
+Lime belongs to the clock, not the man.
+
+---
+
+VII. SILVER — RETURN
+
+The H-wrap remains silver retroreflective material.
+
+Silver performs an honest industrial function:
+
+it returns existing light.
+
+That makes silver visually adjacent to recognition without making it supernatural.
+
+Silver does not become permanently gold.
+
+Recognition-light may interact with eligible reflective tape under established canon conditions.
+
+When the event ends:
+
+silver remains silver.
+
+Never paint the H-wrap gold as costume trim.
+
+Never use recognition as garment redesign.
+
+---
+
+VIII. PAPER — CLASSIFICATION
+
+Paper's visual world should be deliberately mundane.
+
+Preferred language:
+
+- dead beige
+- gray
+- cheap white
+- black ink
+- ordinary toner
+- dull metal
+- office fluorescent
+- manila
+- low-saturation institutional surfaces
+
+Paper must not visually become occult bureaucracy.
+
+Forbidden:
+
+- glowing documents
+- magical parchment
+- gold ink
+- gold foil
+- illuminated hieroglyphs
+- supernatural runes
+- mystical smoke
+- enchanted filing cabinets
+- ornate ancient-office design used merely to signal importance
+
+Paper's horror comes from looking administratively ordinary while recording extraordinary things.
+
+«The file should look less important than what it contains.»
+
+---
+
+IX. FIRE IS NOT GOLD
+
+This distinction is absolute.
+
+Fire orange = combustion.
+
+Recognition-gold = address/recognition event.
+
+They must remain visually distinguishable.
+
+A warehouse fire does not become evidence of recognition merely because it contains warm yellow-orange light.
+
+Fire may illuminate Elias naturally.
+
+It must not accidentally create the visual language of a gold transformation.
+
+When necessary, composition, value, saturation, edge behavior, and medium should clearly separate combustion from recognition.
+
+Fire burns. Gold notices.
+
+---
+
+X. LOCATION TEMPERATURE
+
+Locations possess a dominant physically motivated lighting truth.
+
+HOSPITAL / WAITING ROOM
+
+Cold institutional.
+
+Primary language:
+
+- fluorescent green-white
+- gray
+- vinyl
+- navy scrubs
+- institutional surfaces
+
+Recognition-gold, when canonically present, remains restricted to an eligible boundary.
+
+It does not warm the entire room.
+
+---
+
+CARGO APRON / LOT
+
+Wet industrial.
+
+Primary language:
+
+- charcoal
+- navy
+- concrete
+- lime PPE
+- silver tape
+- yellow ground markings
+- work lights
+- wet reflections
+
+Recognition-gold may occur only where canon permits.
+
+Yellow ground paint remains ordinary industrial yellow.
+
+---
+
+PAPER / RECORD SPACES
+
+Dead administrative.
+
+Primary language:
+
+- beige
+- gray
+- black
+- white
+- low-saturation fluorescent
+
+The extraordinary information does not make the office visually extraordinary.
+
+---
+
+FIRE / INDUSTRIAL EMERGENCY
+
+Hot practical.
+
+Primary language:
+
+- combustion orange
+- soot
+- emergency red
+- smoke
+- dirty white work lights
+
+No recognition-gold merely because the scene is warm.
+
+---
+
+HOME / MOTHER / FAMILY
+
+Human warmth.
+
+The palette comes from ordinary domestic sources:
+
+- skin
+- wood
+- lamps
+- kitchen surfaces
+- fabric
+- daylight
+- household practicals
+
+Home does not automatically become mystical because Elias enters it.
+
+---
+
+XI. MULTIPLE TEMPERATURES
+
+Different physically motivated color temperatures may coexist in one panel.
+
+Examples:
+
+- ambulance lights outside a hospital
+- sunset through industrial glass
+- sodium exterior against fluorescent interior
+- kitchen practical against daylight
+- emergency lighting in a warehouse
+
+The governing restriction is:
+
+«Competing color temperatures may coexist when physically motivated, but symbolic temperature must never override the established truth of the location. Recognition-gold still requires an eligible boundary.»
+
+Do not artificially flatten reality merely to maintain a palette.
+
+Do not invent symbolic lighting merely to make a panel dramatic.
+
+---
+
+XII. DIEGETIC BEFORE SYMBOLIC
+
+SKYBLOOD lighting begins with what actually illuminates the space.
+
+Ask first:
+
+Where is the light physically coming from?
+
+Only then ask:
+
+Is recognition occurring?
+
+Examples of diegetic sources:
+
+- fluorescent fixtures
+- sodium/LED apron lights
+- headlights
+- fire
+- daylight
+- household lamps
+- emergency vehicles
+- screens
+
+Recognition-gold does not replace these sources.
+
+It occurs within the established environment.
+
+---
+
+XIII. NO HERO LIGHTING BY DEFAULT
+
+Do not automatically beautify Elias because he is the protagonist.
+
+Avoid habitual:
+
+- heroic rim lights
+- glowing silhouettes
+- centered divine backlights
+- gold facial bounce
+- supernatural eye catches
+- spotlight-like recognition
+- cinematic halos
+
+If Elias is standing in bad warehouse light, he may look like a man standing in bad warehouse light.
+
+If he performs an extraordinary physical act, the action provides the heroism.
+
+Lighting does not need to certify him.
+
+---
+
+XIV. ACTION SCENES
+
+Superhuman action does not automatically change the palette.
+
+When Elias uses strength, speed, durability, or another established physical capability:
+
+- no automatic gold
+- no aura
+- no energy trail
+- no supernatural color shift
+- no costume illumination
+
+Physical consequence communicates power:
+
+- bent steel
+- displaced mass
+- torn soles
+- cracked surfaces
+- acceleration
+- impact
+- bodily strain
+- environmental reaction
+
+The reader should be able to think:
+
+«Elias did that.»
+
+without the page visually implying:
+
+«FIRST SKY did that.»
+
+---
+
+XV. THUMBNAIL LAW
+
+Every page, cover, promotional image, and major panel should survive reduction.
+
+At thumbnail scale:
+
+Worker image
+
+Lime H against industrial dark
+
+may dominate.
+
+Recognition image
+
+Gold event on an eligible boundary
+
+may dominate.
+
+Paper image
+
+Administrative geometry / beige / black
+
+may dominate.
+
+But:
+
+«Lime Elias + dominant recognition-gold must not combine into a repeatable superhero colorway.»
+
+The series must never accidentally manufacture a recognizable gold-and-lime SKYBLOOD costume through repetition.
+
+---
+
+XVI. COVER LAW
+
+Covers may heighten composition.
+
+They may not violate canon to advertise the issue.
+
+Forbidden cover shortcuts:
+
+- gold Elias
+- gold eyes
+- gold skin
+- gold aura
+- lime-and-gold superhero suit
+- FIRST SKY floating behind him as a conventional deity
+- Paper rendered as magical scrollwork
+- gold lightning
+- gold fists
+- recognition-gold used as generic prestige lighting
+
+A cover can be dramatic without lying about the book.
+
+---
+
+XVII. OTHER COLORS
+
+SKYBLOOD is not restricted to four literal colors.
+
+The world remains a world.
+
+Red blood may exist.
+
+Green trees may exist.
+
+Blue sky may exist.
+
+Orange fire may exist.
+
+Purple signage may exist.
+
+Gold jewelry may exist.
+
+Police lights may exist.
+
+Clothing may vary naturally.
+
+The restriction concerns symbolic ownership, not ordinary color.
+
+«Other colors may exist diegetically. They may not acquire a competing symbolic office without a new canon lock.»
+
+---
+
+XVIII. PRODUCTION CHECK
+
+Before approving a colored SKYBLOOD page, ask:
+
+1. Where is every major light physically coming from?
+
+2. If recognition-gold appears, what eligible boundary is carrying it?
+
+3. Has any recognition-gold reached skin, eyes, blood, hair, or aura?
+
+If yes: reject unless explicitly locked.
+
+4. Is lime functioning as PPE or accidentally as superhero branding?
+
+5. Is silver still silver?
+
+6. Can fire be mistaken for recognition-gold?
+
+If yes: revise.
+
+7. Has Paper become visually magical?
+
+If yes: revise.
+
+8. Is Elias receiving heroic lighting merely because he is Elias?
+
+If yes: justify physically or remove.
+
+9. Does the action communicate his power without needing supernatural color?
+
+10. At thumbnail size, does Elias read as a worker/person rather than “the gold superhero”?
+
+---
+
+XIX. MASTER COLOR LAW
+
+Fluorescent is the truth of the room.
+
+Lime is the truth of the shift.
+
+Silver is the truth of returned light.
+
+Beige and black are the truth claimed by the file.
+
+Recognition-gold is the truth admitted by a boundary.
+
+No office owns Elias.
+
+---
+
+XX. SERIES LINE
+
+«Gold is the sky noticing. It is never the man shining.»
+
+SB-CB01 — LOCKEffectiveness review
+
+Canon effectiveness: 10/10.
+
+The important improvement is that this is now a decision system, not merely color philosophy. A production artist can test a panel against it and get a yes/no answer.
+
+It also solves the ordinary-gold problem: jewelry, fire, sunlight, brass, etc. remain available. What is restricted is recognition-gold as symbolic behavior, not the color yellow/gold itself.
+
+And this immediately governs S3 #3: no recognition-gold is needed during Elias's superhero action. Bent machinery, speed, injury, physical effort and the people he saves carry the spectacle. That keeps Elias's powers clearly his established superhero capabilities rather than visually attributing every heroic act to FIRST SKY.
+
+I would now revise S3 #3 against SB-CB01 + the superhero recommendations before opening #4.

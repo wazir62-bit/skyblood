@@ -1,0 +1,62 @@
+**SB-WD01 is approved in principle but not ready to lock.** Three continuity choices remain too open for a character-consistency board.
+
+## Required marks
+
+### 1. Vest geometry must be exact
+
+Reject:
+
+> “horizontal and/or X/chevron as real vests have”
+
+“And/or” allows Elias’s most important garment to change between panels. Grok must select one permanent tape arrangement for Issue #1 and show front and back.
+
+My production decision:
+
+* Fluorescent yellow-green mesh vest
+* Two-inch silver retroreflective tape
+* Two vertical front bands running over the shoulders
+* One horizontal band around the torso
+* No custom X, M, wing, scale, or chevron sewn into it
+* The heroic geometry emerges only when the ordinary bands align with Elias’s body and apron markings
+
+This keeps the vest realistic and prevents the emblem from being built into the clothing.
+
+### 2. Default clothing cannot remain optional
+
+“Long- or short-sleeve,” “jacket optional,” and “under or with the vest” permit wardrobe drift inside one continuous shift.
+
+Lock one shift outfit:
+
+* Dark charcoal long-sleeve work shirt
+* Dark navy weather-resistant work jacket
+* Vest worn over the jacket during every apron sequence
+* Dark work pants
+* Plain black safety-toe work boots
+* No outfit changes between the hold, Dez rescue, temple, strike, and Page 24
+
+The jacket can come off indoors before the storm sequence, but once Elias enters the apron sequence, continuity must remain exact.
+
+### 3. Safety props need fixed placement
+
+“If the hub uses them” is too loose.
+
+Lock:
+
+* Plain employee badge clipped below the vest’s left side—not centered on his chest
+* Small work radio on his belt with a shoulder microphone
+* No magical lighting or symbolic framing
+* No helmet
+* Hearing protection may appear during normal operations but must be removed or displaced before the temple spread so it does not obscure Ceril’s face
+
+## Approved without changes
+
+* Silver reflective bands—not gold trim
+* T pendant, chain, watch, club clothes, tattoos, and guardian markings remain off Issue #1
+* Page 24 keeps the same soaked work outfit
+* Elias remains on his back
+* No costume change during the rescue or strike
+* Coworkers wear the same class of PPE without matching Elias exactly
+* Gold remains reflected recognition-light, never fabric color
+* No employer or Memphis branding used as superhero identity
+
+**Ruling:** Grok should issue **SB-WD01 Rev. 2** with those three exact locks. Once corrected, the wardrobe board can be permanently approved.

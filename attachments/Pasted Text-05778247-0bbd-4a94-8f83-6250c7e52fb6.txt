@@ -1,0 +1,156 @@
+My ruling as SKYBLOOD’s approved writer:
+
+# SB-PB01 — Approved with required revisions
+
+The foundation is strong, but I will not approve it unchanged because several invented rules conflict with the existing master bible and episode canon.
+
+## Approved
+
+These become perception canon:
+
+* Elias is sensitive to atmospheric changes before instruments or coworkers detect them.
+* His perception begins physically: pressure, inner-ear disturbance, static, temperature change, metallic taste, and directional awareness.
+* He can perceive threshold geometry hidden inside ordinary weather.
+* Threshold sight is reciprocal: when Elias perceives deeply enough, something on the other side can perceive him.
+* Recognition is not a costume grant or conscious power activation.
+* Elias cannot summon recognition.
+* Gold is restrained recognition imagery—not his permanent skin, eyes, jewelry, logo, or projectile.
+* His reflective vest becomes an accidental emblem through existing light and geometry.
+* Elias suppresses perception by looking away, staying occupied, controlling his breathing, and refusing to interpret prematurely.
+* Threshold sight carries physical and emotional consequences.
+* All Issue #1 power limitations in §11 remain enforced.
+* Page 24 remains a rupture in his ordinary life—not a transformation or victory.
+
+## Required correction: core rule
+
+Replace:
+
+> Elias perceives the join where sky and ground fail to agree.
+
+With:
+
+> **Elias perceives stress in the living boundary connecting Earth, the celestial stations, and the realm of the dead. It first presents as weather behaving incorrectly, then resolves into threshold geometry.**
+
+“Join” can remain informal production language, but **threshold** is the governing canon term.
+
+## Required correction: atmospheric empathy
+
+The draft incorrectly says the emotional channel is “not empathy.” Episode canon already locks **atmospheric empathy**.
+
+The correct distinction is:
+
+> **Atmospheric empathy does not mean Elias believes the storm has ordinary human emotions. He senses intention, pressure, imbalance, recognition, and response within a living atmospheric boundary. His emotions can provoke an involuntary atmospheric response, but he cannot command it deliberately in Issues #1–3.**
+
+The ranked sense stack becomes:
+
+1. Physical atmospheric sensitivity
+2. Atmospheric empathy
+3. Visual threshold sight
+4. Reciprocal sight
+
+Visual perception is not always second. Elias can feel the boundary without seeing it.
+
+## Required correction: speech does not automatically widen the threshold
+
+I reject §8 as written.
+
+If every detailed sentence widened the seam, Elias explaining the photograph to Dez or his Sister in Issue #1 would already activate the cosmology. That contradicts the established reception ladder.
+
+The governing rule is:
+
+> **Ordinary description does not open a threshold. Exposure intensifies when speech becomes an address: a true name, recognized title, deliberate invocation, or testimony that another person genuinely receives.**
+
+This preserves SB-L17:
+
+> **Address → Receive → Weigh → Close**
+
+Elias stays quiet because disbelief wounded him and because some forms of address are dangerous—not because every sentence mechanically tears reality.
+
+## Required correction: “material receiver”
+
+I reject that term.
+
+A wet apron, vest, glass, metal, water, or runway paint is a **reflective medium**, not a receiver. In SKYBLOOD, “receiver” has a specific relational meaning: a conscious participant who receives an address or testimony.
+
+Use:
+
+* **Reflective medium:** carries visible recognition-light.
+* **Witness:** observes evidence.
+* **Receiver:** consciously receives an address or testimony and completes the relational circuit.
+
+This distinction is essential. Objects can carry light; they cannot perform the receiver’s office.
+
+## Gold ruling
+
+For Issue #1:
+
+* Gold may appear as reflected recognition-light.
+* It must use existing light, water, metal, paint, glass, or reflective fabric.
+* No gold eyes, skin, veins, blood, beams, weapons, jewelry symbolism, or designed emblem.
+* Gold cannot activate merely because Elias becomes emotional.
+* Page 24 is the clearest gold event.
+
+Later canon retains the possibility of brief **gold-black guardian markings**, already present in the master bible, but they do not appear in Issue #1 and require a later transformation lock.
+
+## Issue #1 receiver ruling
+
+Approved:
+
+> **No new human receiver is completed in Issue #1.**
+
+The Sister begins behaving like a potential receiver when she says, “Walk me through it again,” but the act remains incomplete. Elias creates evidence; nobody fully receives his testimony.
+
+Episode 2 completes the first witnessing act through Elias and his Mother restoring the Grandmother’s name.
+
+## Cost ruling
+
+Approved with restraint:
+
+* Pressure behind the eyes
+* Inner-ear disturbance
+* Metallic taste
+* Scalp heat followed by cold
+* Threshold geometry lingering as an afterimage
+* Nausea after prolonged sight
+* Stillness, shame, and forced attention control
+
+Rejected as default visual shorthand:
+
+* Nosebleeds
+* Gold tears
+* Screaming power poses
+* Pleasure or addiction from using power
+
+## Final locked Issue #1 limits
+
+Elias cannot:
+
+* Control, summon, aim, or dismiss weather
+* Fly or hover
+* Deliberately call lightning
+* Open a sky passage
+* Enter the temple
+* Create a human receiver automatically
+* Produce gold from his body
+* Wear a superhero costume or designed emblem
+* Explain the complete cosmology
+* Communicate knowingly with Anubis
+* Use guardian form
+
+He can:
+
+* Sense weather and boundary stress early
+* Experience atmospheric empathy
+* Trigger one involuntary wind response
+* Perceive the temple resolving inside cloud
+* Photograph evidence
+* Survive the silent strike
+* Hear “Way-Opener”
+* Become visible to the threshold
+* Begin the witnessing act without completing it
+
+## Final status
+
+**SB-PB01 is approved only with the rulings above incorporated.**
+
+The next production document is the **Work Bible**, covering the cargo hub, shift operations, storm evacuation, temple scale, and exact page-24 apron geometry. Personal history, jewelry, faith, and the T pendant remain closed.

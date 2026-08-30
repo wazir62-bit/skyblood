@@ -1,0 +1,24 @@
+The next research target is the **Dez rescue mechanics**, because that is now the one part of the locked sequence where physical realism can materially improve the scene.
+
+The strongest real-world option is **Dez pinned by shifted GSE/ULD equipment**, not caught in some elaborate machine failure. OSHA records actual ramp accidents where workers were pinned between a belt loader and aircraft, or between a cargo container and other ground equipment after a tug or loader moved unexpectedly. ([OSHA][1]) IATA likewise identifies belt loaders, ULD loaders, vehicles, and moving GSE as serious ground-operation hazards, including caught-between and entanglement injuries. ([IATA Connect][2])
+
+For SKYBLOOD, I would investigate around this production version:
+
+**Ramp freeze starts → equipment is being secured/abandoned → something shifts or fails to release → Dez is trapped at a cargo stand → everyone is evacuating → Elias sees him and reverses direction.**
+
+The important distinction is that Dez should be **immobilized but rescuable**. A full crush injury makes Elias freeing him by himself hard to believe. A jammed restraint, displaced dolly/ULD, loader platform, door/gate mechanism, or GSE pinch point gives Elias something physical he can release, lever, move, or help Dez escape from without giving Elias super-strength.
+
+I would **avoid conveyor entanglement** as the primary version. It is certainly real—so real that IATA specifically warns about clothing, hair, and body parts becoming caught in belt loaders—but visually it risks turning the rescue into a gruesome industrial accident rather than the deliberate moral choice the story needs. ([IATA][3])
+
+The best dramatic geometry is probably **Dez caught between a ULD/dolly and fixed GSE near the stand**, with one leg or work clothing trapped rather than his torso crushed. Elias has to cross the emptying apron, secure or shift the equipment enough to release him, and then get Dez moving toward shelter. Nothing supernatural is required.
+
+That also preserves the existing canon exactly: the locked WB01 says **hold begins → Elias turns back → Dez is freed → temple recognition**. 
+
+**Research status: promising, not locked.** The next useful pass is to determine the exact piece of cargo equipment and rescue action so an artist could draw it correctly.
+
+[1]: https://www.osha.gov/ords/imis/accidentsearch.accident_detail?id=201506557&utm_source=chatgpt.com "Accident Report Detail | Occupational Safety and Health Administration osha.gov"
+[2]: https://ic.iata.org/capture/safety-issue/131?utm_source=chatgpt.com "Working around running ground servicing equipment (GSE) and vehicles in operations | IATA Connect"
+[3]: https://www.iata.org/contentassets/f135f60f52e9495d9a6bb09aab8e39e7/safe-working-around-equipment.pdf?utm_source=chatgpt.com "Safety 
+ 
+Ground Injury Prevention Newsletter 
+Iss"
