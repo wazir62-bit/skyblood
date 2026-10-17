@@ -103,3 +103,4 @@ Issue #1 script: `/workspace/attachments/SKYBLOOD_Comic_Issue1_Script(1).md`
 If craft fights a lock, the lock wins.
 
 **Do not open Season Three Issue #12 until the owner names it.**
+- [Ancestral copper mask and Elias's lost tribe](ANCESTRAL-MASK.md) (CANON, 17 Oct 2026)
